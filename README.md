@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-abinashprasana400%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abinashprasana400@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abinash%20Prasana%20S-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-prasana-s-2515b7221)
 
-I’m an MSc Artificial Intelligence student at Dublin Business School, working mainly with Python, data analysis, and machine learning.
+I’m an MSc Artificial Intelligence student at Dublin Business School, working mainly with Python, data analysis, and ML.
 
 I enjoy building practical projects using real datasets, focusing on data cleaning, exploratory analysis, and model building. Most of my work is hands-on and learning-driven, where I try to understand how things work rather than just using libraries as black boxes.
 
