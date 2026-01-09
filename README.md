@@ -10,8 +10,6 @@
 I’m an MSc Artificial Intelligence student at Dublin Business School, working mainly with Python, data analysis, and machine learning.  
 I enjoy building practical projects that solve real problems using real data.
 
-Before moving to Ireland, I worked at Deloitte as an Associate Analyst, supporting healthcare IT systems. That experience helped me understand how real systems operate and how to solve problems in structured, production environments.
-
 ---
 
 ### 🔭 Currently working on
@@ -26,13 +24,6 @@ Before moving to Ireland, I worked at Deloitte as an Associate Analyst, supporti
 - Improving and evaluating ML models  
 - Practical NLP techniques  
 - Fundamentals of LLMs and how data, models, and tools connect end to end  
-
----
-
-### 💬 Ask me about
-- Python and data analysis  
-- Machine learning and basic NLP  
-- Building learning projects with real-world datasets  
 
 ---
 
@@ -57,14 +48,6 @@ Before moving to Ireland, I worked at Deloitte as an Associate Analyst, supporti
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
-
----
-
-### 🎯 What I’m looking for
-Graduate roles or internships in:
-- Data Analytics  
-- Machine Learning  
-- Applied AI  
 
 ---
 
