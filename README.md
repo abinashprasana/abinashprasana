@@ -7,13 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-abinashprasana400%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abinashprasana400@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abinash%20Prasana%20S-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-prasana-s-2515b7221)
 
-I’m an MSc Artificial Intelligence student at Dublin Business School, working mainly with Python, data analysis, and ML.
+I’m an MSc Artificial Intelligence student at Dublin Business School, mainly working with Python, data analysis, and machine learning.
 
-I enjoy building practical projects using real datasets, focusing on data cleaning, exploratory analysis, and model building. Most of my work is hands-on and learning-driven, where I try to understand how things work rather than just using libraries as black boxes.
+I enjoy building practical projects using real datasets, focusing on data cleaning, understanding patterns in data, and building simple machine learning models. Most of my work is hands-on and learning-driven, where I try to understand how things work rather than just using tools blindly.
 
-Lately, I’ve been exploring NLP and getting started with Large Language Models (LLMs), including small local experiments and retrieval-based approaches. I’m interested in how machine learning models are built, evaluated, and used in real-world applications.
+Recently, I’ve been exploring natural language processing and getting started with Large Language Models (LLMs) through small local experiments and document-based question answering.
 
-This GitHub is mainly a collection of my learning projects, experiments, and practice work as I continue improving my skills in AI and data-focused development.
+This GitHub is a collection of my learning projects and experiments as I continue developing my skills in AI and data-focused development.
 
 ---
 
