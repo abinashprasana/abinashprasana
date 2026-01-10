@@ -28,7 +28,7 @@ This GitHub is a collection of my learning projects and experiments as I continu
 
 ### 🌱 Currently learning
 - Working with real data to clean it, understand it, and find useful patterns  
-- Building machine learning models and learning how to evaluate their performance  
+- Building ML models and learning how to evaluate their performance  
 - Working with text data such as news articles and documents  
 - Learning core AI concepts as part of my MSc course  
 - Understanding how LLMs (chat-style AI systems) work at a basic level through small local experiments
