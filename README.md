@@ -27,13 +27,11 @@ This GitHub is a collection of my learning projects and experiments as I continu
 ---
 
 ### 🌱 Currently learning
-- Working with real data to clean it, understand it, and find useful patterns
-- Building machine learning models and learning how to evaluate their performance
-- Working with text data such as news articles and documents
-- Learning core Artificial Intelligence concepts as part of my MSc course
-- Understanding how Large Language Models (chat-style AI systems) work at a basic level
-- Running small experiments with local AI models and document-based question answering
-- Writing cleaner Python code and organizing projects in a better way
+- Working with real data to clean it, understand it, and find useful patterns  
+- Building machine learning models and learning how to evaluate their performance  
+- Working with text data such as news articles and documents  
+- Learning core AI concepts as part of my MSc course  
+- Understanding how LLMs (chat-style AI systems) work at a basic level through small local experiments
 
 ---
 
