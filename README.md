@@ -18,22 +18,22 @@ This GitHub is a collection of my learning projects and experiments as I continu
 ---
 
 ### 🔭 Currently working on
-- Building small projects using real data to understand problems and find solutions
-- Working on machine learning projects related to healthcare, text data, and predictions, etc
-- Creating simple tools where users can upload data or documents and get useful outputs
-- Experimenting with basic AI features such as question answering from documents
-- Improving how I structure projects and explain my work clearly through code and README files 
+- Building small projects using real-world data to understand problems and create simple solutions
+- Working on machine learning projects related to healthcare data, text data, and basic predictions, etc
+- Creating simple tools where users can upload data or documents and get useful results
+- Exploring basic AI use cases such as answering questions from documents
+- Improving how I structure projects and explain my work clearly through clean code and README files
 
 ---
 
 ### 🌱 Currently learning
 - Working with real data to clean it, understand it, and find useful patterns
-- Building machine learning models and learning how to check if they work well
+- Building machine learning models and learning how to evaluate their performance
 - Working with text data such as news articles and documents
 - Learning core Artificial Intelligence concepts as part of my MSc course
 - Understanding how Large Language Models (chat-style AI systems) work at a basic level
-- Trying small experiments with local AI models and document-based question answering
-- Writing cleaner Python code and organizing projects better
+- Running small experiments with local AI models and document-based question answering
+- Writing cleaner Python code and organizing projects in a better way
 
 ---
 
