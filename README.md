@@ -1,7 +1,11 @@
-## Hi, I'm Abinash Prasana Selvanathan 👋
+<h2>
+  Hi there, I’m Abinash Prasana Selavanathan 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">
+</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-prasana-s-2515b7221)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abinashprasana400@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-abinashprasana-black?style=flat-square&logo=github)](https://github.com/abinashprasana)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-abinashprasana400%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abinashprasana400@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abinash%20Prasana%20S-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-prasana-s-2515b7221)
 
 **MSc Artificial Intelligence Student** at Dublin Business School, specializing in Python-based data analysis, machine learning, and NLP. I build practical solutions with real-world datasets, focusing on healthcare analytics, document processing, and LLM applications.
 
