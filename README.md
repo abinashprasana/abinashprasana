@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Current Focus
-- **ML Projects**: Healthcare data analysis, text classification, and predictive modeling
+- **ML Projects**: Healthcare data analysis, text classification, and predictive modeling, ect
 - **NLP & LLMs**: Document-based Q&A systems and local LLM experimentation
 - **Data Engineering**: End-to-end pipelines from data cleaning to model deployment
 - **Best Practices**: Clean code architecture, comprehensive documentation, and model evaluation
