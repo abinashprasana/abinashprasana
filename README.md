@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-abinashprasana400%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abinashprasana400@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abinash%20Prasana%20S-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash-prasana-s-2515b7221)
 
-**MSc Artificial Intelligence Student** at Dublin Business School, specializing in Python-based data analysis, machine learning, and NLP. I build practical solutions with real-world datasets, focusing on healthcare analytics, document processing, and LLM applications.
+**MSc Artificial Intelligence Student** at Dublin Business School, specializing in Python-based data analysis, machine learning, and NLP. I build practical solutions with real-world datasets, focusing on data analytics, document processing, and LLM applications, etc.
 
 Previously worked as **Associate Analyst at Deloitte**, supporting healthcare IT systems in production environments.
 
