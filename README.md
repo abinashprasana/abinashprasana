@@ -76,7 +76,7 @@ Previously worked as **Associate Analyst at Deloitte**, supporting healthcare IT
   </tr>
 </table>
 
-**Core**: Python • Machine Learning • Deep Learning • NLP • LLMs • Data Analysis • SQL • Data Visualization
+**Core**: Python • Machine Learning • Deep Learning • Data Analysis • SQL • Data Visualization
 
 ---
 
