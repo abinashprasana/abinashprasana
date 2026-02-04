@@ -81,7 +81,7 @@ Previously worked as **Associate Analyst at Deloitte**, supporting healthcare IT
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinashprasana&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=stars" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abinashprasana&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 </p>
 
 ---
